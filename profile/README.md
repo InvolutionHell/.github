@@ -61,3 +61,16 @@ Our goal is to lower the learning barrier, allowing more people to grow in a rel
 
 # Join Us
 We welcome you to submit documentation, share your learning experiences, or recommend helpful resources through pull requests.
+# 特别鸣谢
+- 感谢上海AI Lab的书生大模型对本项目的算力支持！
+- InternS1地址：https://github.com/InternLM/Intern-S1/tree/main
+- InternStudio算力平台：https://studio.intern-ai.org.cn/console/dashboard
+- 书生浦语API:https://internlm.intern-ai.org.cn/api/document
+
+
+- 感谢上海人工智能实验室组织的书生大模型开源社区项目
+![](https://ravencaffeine.github.io/PictureCDN/images/shanghaiailab.png)
+- 感谢 OpenXLab 对项目的算力支持
+![](https://ravencaffeine.github.io/PictureCDN/images/openxlab.png)
+- 感谢运营大佬闻星
+![](https://ravencaffeine.github.io/PictureCDN/images/vixing.png)
