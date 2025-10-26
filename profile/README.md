@@ -1,74 +1,57 @@
-# 🌟 Involution Hell
+# 🌟 Involution Hell (内卷地狱)
 
-Involution Hell 是一个由开发者自发组织的、完全免费且开放的学习社区。
-我们希望在这里，任何人都可以：
+Involution Hell 是一个由**在校及应届毕业生**创立、志愿者运营的**非盈利性开源学习社区**。
 
-- 📚 学习：阅读高质量的技术文档与教程
+我们致力于为每一位建设者 (Builder) 创造一个协作与支持的环境，在这里，任何人都可以：
 
-- 🤝 交流：通过开源协作分享经验与心得
+  - 📚 **深度学习**：阅读高质量的技术文档、教程与实战笔记。
+  - 🤝 **开放协作**：通过开源项目分享经验，在实践中共同进步。
+  - 💡 **共同创造**：协作构建对开发者真正有价值的工具、项目与资源。
 
-- 💡 创造：一起产出对开发者友好的工具与资源
+**我们的使命**是打破学习壁垒，让每位开发者都能在协作的氛围中成长，**摆脱“无意义的内卷”，专注于切实的进步与创造的乐趣**。
 
-我们的目标是 降低学习门槛，让更多人能够在轻松氛围下成长，避免“无意义的内卷”，而是专注于 真实的进步与乐趣。
+# 🚀 我们的原则 (Our Principles)
 
-# 🚀 我们的特点
+  - **完全开源 (Fully Open-Source)**：所有内容均托管于 GitHub，透明公开，任何人都可以参与贡献。
+  - **免费可及 (Free & Accessible)**：没有准入门槛，没有付费墙，我们相信知识应自由流动。
+  - **社区驱动 (Community-Driven)**：每一位贡献者都是社区的**共同建设者** (Co-builder)。
 
-- 完全开源：所有内容存放于 GitHub 仓库，任何人都能参与贡献
+# 📬 联系我们 (Get in Touch)
 
-- 开放透明：没有门槛、没有收费，所有资料和代码都对外公开
+  - 👉 在我们的 [GitHub 仓库](https://www.google.com/search?q=https://github.com/involutionhell/involutionhell.github.io) 提交 Issue 或参与讨论。
+  - 👉 加入我们的 [Discord 频道](https://discord.gg/6CGP73ZWbD)。
+  - ✉️ 发送邮件至：longsizhuo@gmail.com
 
-- 社区驱动：每一位贡献者都是组织的建设者
+# 欢迎贡献 (Contribute)
 
-# 📬 如何联系我们
-- 👉 在 involutionhell.github.io 仓库提 Issue 或参与讨论
+我们欢迎你通过 Pull Request 提交文档、分享学习心得，或推荐任何有帮助的资料。你的每一次贡献都在帮助社区成长！
 
-- 👉加入我们的 [Discord](https://discord.gg/6CGP73ZWbD)
-
-- Email: ✉️ 发送邮件至：longsizhuo@gmail.com
-
-# 加入我们
-欢迎通过 Pull Request 提交文档、分享学习心得，或推荐你觉得有帮助的资料。
-
---- 
+-----
 
 # 🌟 Involution Hell
 
-Involution Hell is a completely free and open learning community organized by developers.
-We hope that here, anyone can:
+Involution Hell is a **non-profit, open-source learning community founded and run by current university students and recent graduates.**
 
-- 📚 Learn: Read high-quality technical documentation and tutorials
+We are dedicated to fostering a collaborative and supportive environment where every builder can:
 
-- 🤝 Communicate: Share experiences and insights through open source collaboration
+  - 📚 **Learn Deeply**: Access high-quality technical documentation, tutorials, and practical insights.
+  - 🤝 **Collaborate Openly**: Share experiences and grow together through hands-on open-source collaboration.
+  - 💡 **Create Together**: Co-build developer-friendly tools, projects, and resources that deliver real value.
 
-- 💡 Create: Work together to produce developer-friendly tools and resources
+**Our mission** is to lower the barrier to learning, enabling growth in a supportive atmosphere. We help builders **escape "meaningless involution" and focus on tangible progress and the joy of building.**
 
-Our goal is to lower the learning barrier, allowing more people to grow in a relaxed atmosphere, avoiding "meaningless involution" and focusing on real progress and fun.
+# 🚀 Our Principles
 
-# 🚀 Our Features
+  - **Fully Open-Source**: All content is hosted on GitHub, completely transparent and open for contribution.
+  - **Free & Accessible**: No barriers to entry, no fees. We believe knowledge should be accessible to all.
+  - **Community-Driven**: Every contributor is a **co-builder** of the community.
 
-- Completely open source: All content is stored in the GitHub repository, and anyone can contribute.
+# 📬 Get in Touch
 
-- Open and transparent: No barriers to entry, no fees, all materials and code are publicly available.
+  - 👉 Submit issues or join discussions on our [GitHub repository](https://www.google.com/search?q=https://github.com/involutionhell/involutionhell.github.io).
+  - 👉 Join our [Discord Channel](https://discord.gg/6CGP73ZWbD).
+  - ✉️ Email us at: longsizhuo@gmail.com
 
-- Community-driven: Every contributor is a contributor.
+# Contribute
 
-# 📬 How to Contact Us
-- 👉 Submit issues or participate in discussions in the involutionhell.github.io repository.
-
-- 👉 Join our Discord channel (https://discord.gg/6CGP73ZWbD)
-
-- Email: ✉️ Send an email to: longsizhuo@gmail.com
-
-# Join Us
-We welcome you to submit documentation, share your learning experiences, or recommend helpful resources through pull requests.
-# 特别鸣谢
-- 感谢上海AI Lab的书生大模型对本项目的算力支持！
-- InternS1地址：https://github.com/InternLM/Intern-S1/tree/main
-- InternStudio算力平台：https://studio.intern-ai.org.cn/console/dashboard
-- 书生API:https://internlm.intern-ai.org.cn/api/document
-
-
-- 感谢上海人工智能实验室组织的书生大模型开源社区项目
-![](https://ravencaffeine.github.io/PictureCDN/images/shanghaiailab.png)
-- 感谢运营大佬闻星
-![](https://ravencaffeine.github.io/PictureCDN/images/vixing.png)
+We welcome you to submit documentation, share your learning experiences, or recommend helpful resources via Pull Requests. Every contribution helps our community grow\!
