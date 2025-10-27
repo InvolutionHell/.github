@@ -1,6 +1,6 @@
-# Involution Hell (内卷地狱)
+# Involution Hell 内卷地狱
 
-Involution Hell 是一个由**在校及应届毕业生**创立、志愿者运营的**非盈利性开源学习社区**。
+Involution Hell（内卷地狱） 是一个由**在校及应届毕业生**创立、志愿者运营的**非盈利性开源学习社区**。
 
 我们致力于为每一位建设者 (Builder) 创造一个协作与支持的环境，在这里，任何人都可以：
 
@@ -28,9 +28,9 @@ Involution Hell 是一个由**在校及应届毕业生**创立、志愿者运营
 
 -----
 
-# Involution Hell
+# Involution Hell 内卷地狱
 
-Involution Hell is a **non-profit, open-source learning community founded and run by current university students and recent graduates.**
+Involution Hell （内卷地狱） is a **non-profit, open-source learning community founded and run by current university students and recent graduates.**
 
 We are dedicated to fostering a collaborative and supportive environment where every builder can:
 
