@@ -1,5 +1,11 @@
 # Involution Hell 内卷地狱
 
+<p align="left">
+  <a href="https://invite.longsizhuo.com" target="_blank">
+    <img src="https://img.shields.io/badge/加入内卷地狱GitHub%20Community-%E2%86%92-blue?style=for-the-badge" alt="加入内卷地狱GitHub">
+  </a>
+</p>
+
 Involution Hell（内卷地狱） 是一个由**在校及应届毕业生**创立、志愿者运营的**非盈利性开源学习社区**。
 
 我们致力于为每一位建设者 (Builder) 创造一个协作与支持的环境，在这里，任何人都可以：
@@ -27,6 +33,11 @@ Involution Hell（内卷地狱） 是一个由**在校及应届毕业生**创立
 我们欢迎你通过 Pull Request 提交文档、分享学习心得，或推荐任何有帮助的资料。你的每一次贡献都在帮助社区成长！
 
 -----
+<p align="left">
+  <a href="https://invite.longsizhuo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Involution%20Hell%20GitHub%20Community-%E2%86%92-blue?style=for-the-badge" alt="Join Involution Hell GitHub Community">
+  </a>
+</p>
 
 # Involution Hell 内卷地狱
 
