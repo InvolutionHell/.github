@@ -1,10 +1,36 @@
-# Involution Hell 内卷地狱
+# Involution Hell | 内卷地狱
 
-<p align="left">
-  <a href="https://invite.longsizhuo.com" target="_blank">
-    <img src="https://img.shields.io/badge/加入内卷地狱GitHub%20Community-%E2%86%92-blue?style=for-the-badge" alt="加入内卷地狱GitHub">
+<p align="center">
+  <a href="https://involutionhell.com">
+    <picture>
+      <!-- Dark mode logo -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InvolutionHell/involutionhell/blob/main/public/logo/logoInDark.svg">
+      <!-- Light mode logo -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InvolutionHell/involutionhell/blob/main/public/logo/logoInLight.svg">
+      <!-- Fallback (legacy browsers, or if media query fails) -->
+      <img src="./public/mascot.svg" width="150" alt="Involution Hell Logo">
+    </picture>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://involutionhell.com">
+    <img src="https://img.shields.io/badge/Official_Docs-involutionhell.com-blue?style=for-the-badge&logo=vercel" alt="Official Website">
+  </a>
+  <a href="https://invite.longsizhuo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Join_Community-GitHub-f6671b?style=for-the-badge&logo=github" alt="GitHub Community">
+  </a>
+  <a href="https://longsizhuo.com">
+    <img src="https://img.shields.io/badge/Maintainer-Siz_Long-black?style=for-the-badge" alt="Maintainer">
+  </a>
+</p>
+
+---
+
+### 🛠 项目定位
+**Involution Hell** 是一个旨在通过技术沉淀与资源聚合，对抗无效竞争的开源知识库。
+我们不谈成功学，只聊如何通过**技术提升**与**效率工具**逃离“内卷”。
+
 
 Involution Hell（内卷地狱） 是一个由**在校及应届毕业生**创立、志愿者运营的**非盈利性开源学习社区**。
 
