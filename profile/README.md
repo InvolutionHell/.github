@@ -20,9 +20,6 @@
   <a href="https://invite.longsizhuo.com" target="_blank">
     <img src="https://img.shields.io/badge/Join_Community-GitHub-f6671b?style=for-the-badge&logo=github" alt="GitHub Community">
   </a>
-  <a href="https://longsizhuo.com">
-    <img src="https://img.shields.io/badge/Maintainer-Siz_Long-black?style=for-the-badge" alt="Maintainer">
-  </a>
 </p>
 
 ---
