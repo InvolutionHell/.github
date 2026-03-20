@@ -24,6 +24,13 @@
 
 ---
 
+<p align="left">
+  <a href="https://invite.longsizhuo.com" target="_blank">
+    <img src="https://img.shields.io/badge/一%20键%20加%20入%20GitHub%20社%20群-%E2%86%92-blue?style=for-the-badge" alt="一键加入GitHub社群">
+  </a>
+</p>
+
+
 ### 🛠 项目定位
 **Involution Hell** 是一个旨在通过技术沉淀与资源聚合，对抗无效竞争的开源知识库。
 我们不谈成功学，只聊如何通过**技术提升**与**效率工具**逃离“内卷”。
